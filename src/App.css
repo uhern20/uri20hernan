@@ -243,19 +243,3 @@ footer {
   }
 }
 
-.social-icons {
-  margin-top: 0.5rem;
-}
-
-footer .social-link {
-  color: #ffffff;
-  margin: 0 1rem;
-  font-size: 2.5rem; /* Icon size */
-  text-decoration: none;
-  transition: color 0.3s, transform 0.2s;
-}
-
-footer .social-link:hover {
-  color: #0040ff; /* League blue hover */
-  transform: scale(1.2);
-}
